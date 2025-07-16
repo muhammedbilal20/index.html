@@ -128,7 +128,7 @@
   <header>
     <h1>Computer-Minds</h1>
     <p>Exploring technology, programming, and innovation</p>
-    <div class="stats">178 videos • 322 subscribers • 1,840,724 views</div>
+    <div class="stats">182 videos • 336 subscribers • 2,060,724 views</div>
     <div style="background-color: #1e3488; text-align: center; padding: 10px;">
     <a href="https://www.youtube.com/@computer-minds" target="_blank" style="color: #ffffff; font-weight: bold; font-size: 16px; text-decoration: none;">
       🔗 Visit Our Channel on YouTube
